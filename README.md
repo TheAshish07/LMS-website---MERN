@@ -2,11 +2,9 @@
 
 A full-stack Learning Management System (LMS) built using the MERN stack, designed to provide a seamless learning experience for students and efficient management for admins.
 
-## 🚀 Live Demo
-🌐 https://your-project.vercel.app  
 
 ## 💻 GitHub Repository
-🔗 https://github.com/your-username/your-repo  
+🔗 https://github.com/TheAshish07/LMS-website---MERN.git 
 
 ---
 
@@ -52,10 +50,10 @@ _(Add screenshots here after uploading images)_
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/TheAshish07/LMS-website---MERN.git
 
 # Navigate to project
-cd your-repo
+cd client
 
 # Install dependencies
 npm install
