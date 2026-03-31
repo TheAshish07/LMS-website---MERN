@@ -1,16 +1,64 @@
-# React + Vite
+# 📚 LMS Website (MERN Stack)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack Learning Management System (LMS) built using the MERN stack, designed to provide a seamless learning experience for students and efficient management for admins.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🌐 https://your-project.vercel.app  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 💻 GitHub Repository
+🔗 https://github.com/your-username/your-repo  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 Features
 
-## Expanding the ESLint configuration
+- 🔐 User Authentication (Clerk)
+- 👨‍🎓 Student Dashboard
+- 📚 Course Listing & Management
+- 🧑‍🏫 Role-based Access (Admin/Student)
+- 📱 Responsive UI
+- ⚡ Fast and optimized frontend with React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React.js (JSX)
+- Tailwind CSS
+
+**Backend:**
+- Node.js
+- Express.js
+
+**Database:**
+- PostgreSQL / MongoDB (choose yours)
+
+**Authentication:**
+- Clerk
+
+**Deployment:**
+- Vercel (Frontend)
+
+---
+
+## 📸 Screenshots
+
+_(Add screenshots here after uploading images)_
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo.git
+
+# Navigate to project
+cd your-repo
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
