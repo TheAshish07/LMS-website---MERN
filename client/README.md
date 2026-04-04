@@ -30,7 +30,7 @@ A full-stack Learning Management System (LMS) built using the MERN stack, design
 - Express.js
 
 **Database:**
-- PostgreSQL / MongoDB (choose yours)
+- MongoDB for now / Will be changed to PostgreSQL later
 
 **Authentication:**
 - Clerk
